@@ -23,7 +23,6 @@
 
 # Inherit from those products. Most specific first.
 $(call inherit-product, device/moto/mb525/jordan.mk)
-$(call inherit-product, vendor/motorola/jordan/jordan-vendor.mk)
 
 # copy all vendor (motorola) kernel modules to system/lib/modules
 PRODUCT_COPY_FILES += $(shell test -d vendor/motorola/jordan/lib/modules &&  \
