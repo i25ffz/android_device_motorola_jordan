@@ -1,5 +1,8 @@
 Jelly Bean for Motorola Defy (Android 4.1.1 AOSP)
 
+Install:
+========
+host: http://defy.svolkov.name/quarx2k.ru/other/moto_omap3_bootstrap/
 
 Download:
 =========
